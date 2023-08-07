@@ -16,3 +16,6 @@ I have used the plateform of REPLIT https://replit.com to complete this project
 
 
 ![Screenshot 2023-07-27 082316](https://github.com/aryat10/Calculator_with_theme/assets/107941072/aeb1a2a6-c240-4c54-aa10-975a7ef50c62)
+
+
+
