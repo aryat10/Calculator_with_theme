@@ -1,4 +1,4 @@
-const display = document.querySelector("#display");
+const display = document.querySelector("#display")
 const buttons = document.querySelectorAll("button");
 
 buttons.forEach((item) => {    // implementaion of for each loop in JS
